@@ -30,6 +30,8 @@ definitionsData.data = [
   
     {"name":"loader","less":"lib/semantic-ui/src/definitions/elements/loader.import.less"},
   
+    {"name":"placeholder","less":"lib/semantic-ui/src/definitions/elements/placeholder.import.less"},
+  
     {"name":"rail","less":"lib/semantic-ui/src/definitions/elements/rail.import.less"},
   
     {"name":"reveal","less":"lib/semantic-ui/src/definitions/elements/reveal.import.less"},
@@ -38,15 +40,15 @@ definitionsData.data = [
   
     {"name":"step","less":"lib/semantic-ui/src/definitions/elements/step.import.less"},
   
+    {"name":"reset","less":"lib/semantic-ui/src/definitions/globals/reset.import.less"},
+  
+    {"name":"site","less":"lib/semantic-ui/src/definitions/globals/site.import.less","js":"lib/semantic-ui/src/definitions/globals/site.js"},
+  
     {"name":"api","js":"lib/semantic-ui/src/definitions/behaviors/api.js"},
   
     {"name":"form","js":"lib/semantic-ui/src/definitions/behaviors/form.js","less":"lib/semantic-ui/src/definitions/collections/form.import.less"},
   
     {"name":"visibility","js":"lib/semantic-ui/src/definitions/behaviors/visibility.js"},
-  
-    {"name":"reset","less":"lib/semantic-ui/src/definitions/globals/reset.import.less"},
-  
-    {"name":"site","less":"lib/semantic-ui/src/definitions/globals/site.import.less","js":"lib/semantic-ui/src/definitions/globals/site.js"},
   
     {"name":"breadcrumb","less":"lib/semantic-ui/src/definitions/collections/breadcrumb.import.less"},
   
