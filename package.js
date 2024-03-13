@@ -4,7 +4,7 @@
 
 Package.describe({
   name: 'timchurchfield:semantic-ui',
-  version: '2.3.3',
+  version: '2.3.3_1',
   summary: 'Fork of Official Semantic UI Integration for Meteor',
   git: 'https://github.com/tchurchfield-streamba/Semantic-UI-Meteor.git',
   documentation: 'README.md'
@@ -15,7 +15,7 @@ Package.registerBuildPlugin({
   use: [
     'ecmascript@0.1.5',
     'ejson@1.0.6',
-    'timchurchfield:semantic-ui-data@2.3.3'
+    'timchurchfield:semantic-ui-data@2.3.3_1'
   ],
   sources: [
     'semantic-ui.js',

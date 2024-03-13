@@ -15,5 +15,5 @@ modules@0.20.0
 modules-runtime@0.13.1
 promise@0.12.2
 react-fast-refresh@0.2.8
-timchurchfield:semantic-ui@2.3.3
-timchurchfield:semantic-ui-data@2.3.3
+timchurchfield:semantic-ui@2.3.3_1
+timchurchfield:semantic-ui-data@2.3.3_1
