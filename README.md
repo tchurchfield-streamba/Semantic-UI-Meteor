@@ -7,7 +7,7 @@ Installation
 ------------
 ### Meteor <1.3
 
-    meteor add semantic:ui flemay:less-autoprefixer jquery
+    meteor add timchurchfield:semantic-ui flemay:less-autoprefixer jquery
 
 Continue to the Usage section.
 
@@ -15,7 +15,7 @@ Continue to the Usage section.
 
     meteor remove standard-minifier-css
 
-    meteor add semantic:ui juliancwirko:postcss less jquery
+    meteor add timchurchfield:semantic-ui juliancwirko:postcss less jquery
 
 Add the following to `package.json`
 ```
@@ -175,7 +175,7 @@ Dependencies
 
 (Meteor 1.3+) **[less](https://atmospherejs.com/meteor/less)**: is needed to compile the `LESS` files to `CSS` when building.
 
-**[semantic:ui-data](https://atmospherejs.com/semantic/ui-data)** is being used to get Semantic UI files.
+**[timchurchfield:semantic-ui-data](https://atmospherejs.com/timchurchfield/semantic-ui-data)** is being used to get Semantic UI files.
 
 Contributing
 -------------
